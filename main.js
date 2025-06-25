@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <button id='theme-toggle' class='bg-[#2F4F4F] text-white px-4 py-2 rounded'>Toggle Dark Mode</button>
       </div>
       <div class='flex flex-col md:flex-row items-center mb-10'>
-        <img src='avatar.jpg' alt='Avatar' class='w-32 h-32 rounded-full border-4 border-[#2F4F4F] mb-4 md:mb-0 md:mr-8'/>
+        <img src='avatar.png' alt='Avatar' class='w-32 h-32 rounded-full border-4 border-[#2F4F4F] mb-4 md:mb-0 md:mr-8'/>
         <p class='text-lg'>IT professional with 3+ years of experience in end-user support, data engineering, and analytics. Skilled in Python, SQL, Airflow, and cloud tools.</p>
       </div>
       <section class='mb-8'>
